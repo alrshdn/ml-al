@@ -20,6 +20,8 @@ smoker (one-hot encoding) {yes, no}
 region (one-hot encoding) {northeast, northwest, southeast, southwest}
 charges (float)
 
+Data Normalization: MinMaxScalar
+
 Activation function: None
 
 Data source:
